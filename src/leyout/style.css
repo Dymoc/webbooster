@@ -1,0 +1,31 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.btn {
+  width: 150px;
+  border-radius: 1.5em;
+}
+
+.product-cart img {
+  margin-left: 10px;
+}
+
+.product-cart__name {
+  font-size: 14px;
+  width: 200px;
+}
+
+.product-cart__price {
+  font-size: 16px;
+  line-height: 40px;
+  text-align: center;
+  width: 150px;
+  font-weight: bold;
+}
+
+#product-name {
+  font-size: larger;
+  font-weight: bold;
+}
+/*# sourceMappingURL=style.css.map */
